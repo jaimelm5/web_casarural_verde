@@ -12,12 +12,10 @@ export default function TarifasPage() {
     {
       id: "finde-semana",
       name: "Fin de Semana",
-      duration: "3 días / 2 noche",
+      duration: "3 días / 2 noches",
       minStay: "Mínimo 2 noches",
       price: "800€",
       features: [
-        "Check-in: 15:00 H",
-        "Check-out: 16:00 H",
         "Toda la casa para su grupo",
         "Uso exclusivo de la piscina",
         "WiFi gratuito"
@@ -31,12 +29,9 @@ export default function TarifasPage() {
       minStay: "Estancia mínima semanal",
       price: "1.600€",
       features: [
-        "Check-in: 15:00 H",
-        "Check-out: 16:00 H Domingo",
         "Toda la casa para su grupo",
         "Uso exclusivo de la piscina",
         "WiFi gratuito",
-        "Limpieza intermedia incluida",
         "Descuento por estancia larga"
       ],
       recommended: true
@@ -48,12 +43,9 @@ export default function TarifasPage() {
       minStay: "Estancia mínima quincenal",
       price: "3.000€",
       features: [
-        "Check-in: 15:00 H",
-        "Check-out: 16:00 H Domingo",
         "Toda la casa para su grupo",
         "Uso exclusivo de la piscina",
         "WiFi gratuito",
-        "Limpieza semanal incluida",
         "Máximo descuento aplicado",
         "Atención personalizada"
       ],
