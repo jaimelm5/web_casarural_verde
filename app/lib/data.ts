@@ -261,7 +261,7 @@ export const galleryImages = [
     id: 56,
     url: "/02_interiores/GERMANICUS.jpeg",
     alt: "GERMANICUS - Habitación Doble con cama supletoria, inspirada en la serenidad de los campamentos romanos.",
-    category: "GERMANICUS"
+    category: "GERMÁNICUS"
   },
   
   // LAVATRINA - IDs 70-80
