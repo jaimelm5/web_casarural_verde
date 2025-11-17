@@ -259,8 +259,8 @@ export const galleryImages = [
   // GERMANICUS - IDs 56-60
   {
     id: 56,
-    url: "/02_interiores/GERMANICUS.jpeg",
-    alt: "GERMANICUS - Habitación Doble con cama supletoria, inspirada en la serenidad de los campamentos romanos.",
+    url: "/02_interiores/94 DUX GERMANICUS.avif",
+    alt: "GERMÁNICUS - Habitación Doble con cama supletoria, inspirada en la serenidad de los campamentos romanos.",
     category: "GERMÁNICUS"
   },
   
