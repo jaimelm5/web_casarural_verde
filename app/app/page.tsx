@@ -10,9 +10,9 @@ export default function HomePage() {
     <div className="relative">
       <WatermarkLogo />
       <HeroSection />
-      <FeaturesSection />
-      <RoomsSection />
       <SpacesSection />
+      <RoomsSection />
+      <FeaturesSection />
       <ServicesSection />
     </div>
   );
