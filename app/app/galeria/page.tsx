@@ -25,7 +25,7 @@ const categories = [
       img?.category === 'LAVATRINA' ||
       img?.category === 'AGRIPPA' ||
       img?.category === 'SCIPIO AFRICANUS' ||
-      img?.category === 'GERMANICUS' ||
+      img?.category === 'GERMÁNICUS' ||
       img?.category === 'POMPEIUS MAGNUS' ||
       img?.category === 'SULLA' ||
       img?.category === 'JULIUS CAESAR'
@@ -52,7 +52,7 @@ export default function GaleriaPage() {
             img?.category === 'LAVATRINA' ||
             img?.category === 'AGRIPPA' ||
             img?.category === 'SCIPIO AFRICANUS' ||
-            img?.category === 'GERMANICUS' ||
+            img?.category === 'GERMÁNICUS' ||
             img?.category === 'POMPEIUS MAGNUS' ||
             img?.category === 'SULLA' ||
             img?.category === 'JULIUS CAESAR'
