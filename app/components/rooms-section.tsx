@@ -47,10 +47,10 @@ function RoomCard({ room, index }: { room: any; index: number }) {
 
   // Determinar el texto de camas según la habitación
   const getBedText = () => {
-    if (room.name === "GERMANICUS") {
-      return "Camas individuales + supletoria";
+    if (room.name === "GERMÁNICUS") {
+      return "2 Camas individuales + supletoria";
     }
-    return "Camas individuales";
+    return "2 Camas individuales";
   };
 
   return (
